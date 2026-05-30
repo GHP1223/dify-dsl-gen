@@ -1,0 +1,8 @@
+{
+  "name": "dify-dsl-gen",
+  "version": "1.0.0",
+  "description": "Generate import-ready Dify DSL YAML through guided dialogue. Covers workflow, chatflow, chatbot, agent, and text-generation modes with all 26 node types.",
+  "author": {
+    "name": "GHP"
+  }
+}
